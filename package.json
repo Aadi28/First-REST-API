@@ -1,0 +1,30 @@
+{
+  "name": "first-rest-api",
+  "version": "1.0.0",
+  "description": "My first REST API using MongoDB, ExpressJS, NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aadi28/First-REST-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aadi28/First-REST-API/issues"
+  },
+  "homepage": "https://github.com/Aadi28/First-REST-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mogoose": "0.0.1-security",
+    "mongose": "0.0.2-security"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  }
+}

@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Aadi28/First-REST-API#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mogoose": "0.0.1-security",
     "mongose": "0.0.2-security"
   },
